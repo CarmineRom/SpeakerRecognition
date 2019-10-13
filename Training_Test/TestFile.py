@@ -346,7 +346,7 @@ def detect_speakers(frames_range):
 # print("Best frame range accuracy: ", best_range)
 # print("Best accuracy: ",best_accuracy)
 # plt.plot(list(range(31)), range_accuracies)
-# plt.vlines(best_range, ymin=0.715, ymax=0.8, color="red")
+# plt.vlines(best_range, ymin=np.min(range_accuracies), ymax=np.max(range_accuracies), color="red")
 # plt.show()
 ############################################################################################
 ############################################################################################
