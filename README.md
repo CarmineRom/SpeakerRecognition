@@ -1,4 +1,4 @@
-# INMCA_Romaniello
+# Speaker Recognition
 Speaker Recognition
 
 Carmine Romaniello
