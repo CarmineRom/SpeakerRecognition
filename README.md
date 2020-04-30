@@ -1,5 +1,4 @@
 # Speaker Recognition
-Speaker Recognition
 
 Carmine Romaniello
 Università degli studi di Milano, via Celoria 18, Milano, Italy. 
